@@ -87,9 +87,9 @@ The developer updates the issue with progress comments and links a pull request 
 Once the fix is tested and merged, the issue is closed. 
 An example of how project boards can enhance collaborative efforts is A Team Managing a Feature Development Sprint
 Columns on the Board:
-📝 To Do → Tasks that need to be done.
-🚧 In Progress → Tasks being actively worked on.
-✅ Done → Completed tasks.
+To Do → Tasks that need to be done. 
+In Progress → Tasks being actively worked on.
+Done → Completed tasks.
 Tasks Moved as Progress Happens:
 A developer picks a task from To Do and moves it to In Progress.
 Once a pull request is merged, the task moves to Done.
